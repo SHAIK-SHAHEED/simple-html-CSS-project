@@ -4,7 +4,7 @@ This is a basic single-page website created using HTML and CSS. It's my first pr
 
 ## Preview
 
-![image](https://github.com/SHAIK-SHAHEED/simple-html-CSS-project/assets/150045974/13e6d1d8-47a6-492c-ac62-6431877ce110)
+![image](https://github.com/SHAIK-SHAHEED/simple-html-CSS-project/assets/150045974/1dd2fe90-b045-4d39-9fb2-e220a2aa9331)
 
 
 
